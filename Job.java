@@ -1,4 +1,4 @@
-public class Job implements Runnable {
+public class Job implements Runnable { //Job Class 
  private int jobNumber;
 
  Job (int jobNumber) {
